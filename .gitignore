@@ -1,0 +1,17 @@
+# Byte compiled
+__pycache__/
+*.so
+
+# Data
+./data/*
+data/VCR
+
+# Results
+results/
+save/
+
+# Logs
+tensorboard_log/
+
+# Misc
+pip-uninstall-aofq4atj/
